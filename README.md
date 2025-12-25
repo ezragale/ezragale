@@ -1,12 +1,9 @@
-<h1>Hi, I'm Ezra <br/><a
-<h2>👨‍💻 Software Development Projects:</h2>
+### Hi, I'm Ezra!! 👻
+Cal State University Fullerton 🐘<br/>
+CS w/ Cyber Security concentration <br/>
+Creating with user experience as my priority 🤠 <br/>
 
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-
+[![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezragale)](https://github.com/ezragale/github-readme-stats)
 
 
 <!--
