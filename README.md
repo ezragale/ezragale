@@ -3,7 +3,7 @@ Cal State University Fullerton 🐘<br/>
 CS w/ Cyber Security concentration <br/>
 Creating with user experience as my priority 🤠 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezragale)](https://github.com/ezragale/github-readme-stats)
+[![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezragale)](https://github.com/ezragale/github-readme-stats)
 
 
 <!--
